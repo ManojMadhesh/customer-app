@@ -8,3 +8,5 @@
 3.Open terminal "npm install" and "npm start" in both 
 
 4.App will start on port 3000
+
+Note:Make sure you have the database mentioned in the node app 
